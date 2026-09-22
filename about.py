@@ -1,0 +1,8 @@
+print("Illia Basalukk, IT-31")
+print("Name: Illia")
+print("Surname: Basalukk")
+print("Group: IT-31")
+print("Birth date: 11.07.2009")
+print("Birth city: Lutsk")
+print("Hobbies: drawing, gym, gaming")
+print("Surname letters: 8")
